@@ -19,6 +19,3 @@ The script loop through all the stocks data once and the following information d
   * Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
    The solution also provide the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
-
-Year_1 :
-
